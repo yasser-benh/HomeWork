@@ -1,0 +1,11 @@
+section {
+    
+    display: flex;
+    justify-content: center;
+}
+input {
+    width: 19rem;
+    text-align: center;
+    height: 3rem;
+    font-size: 1.1rem;
+}
